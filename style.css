@@ -1,0 +1,45 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+       
+}
+nav {
+
+    background: black;
+    position: fixed;
+    
+    width: 100%;
+    height: auto;
+
+}
+nav .logo {
+
+    color: #fff;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+}
+nav a {
+
+    color: #fff;
+    float: right;
+    text-decoration: none;
+    padding: 14px 16px;
+    transition: 0.5s;
+    
+}
+nav a:hover {
+
+    background-color: aliceblue;
+    color: black;
+}
+main {
+
+    
+}
+ 
